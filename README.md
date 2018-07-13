@@ -5,8 +5,8 @@ My work progress on 100 Days Of Machine Learning Code challenge.
 
 ## List of Days completed.
 
-- [x] Day 1
-- [ ] Day 2
+- [x] Day 1 : Trained MNIST data set on tensorflow python (credits: Sentdex tutorials).
+- [x] Day 2 : Training NN with data of our own, (String data).
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
