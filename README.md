@@ -16,8 +16,9 @@ My work progress on 100 Days Of Machine Learning Code challenge.
 
 | #Day | Date | Things Achieved |
 | ---- | ---- | --------------- |
-|1    | August 30, 2018  |   deeplearning.ai Week 3 is completed |
-|   |   |   |
+|1    | August 30, 2018  |   deeplearning.ai Week 3 is completed. |
+|2   | August 31, 2018   |  Started deeplearning.ai's 4th Week, hopefully the videos will be over by tomorrow, leaving just the Programming assignments. |
+|3   | September 1, 2018  |   |
 
 
 <!-- Template Row for updating in the table  -->
