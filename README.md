@@ -12,7 +12,7 @@ My work progress on 100 Days Of Machine Learning Code challenge.
 
 ---
 
-## List of Days completed.
+# This is the Day by Day log _I_ maintain:
 
 | #Day | Date | Things Achieved |
 | ---- | ---- | --------------- |
