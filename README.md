@@ -3,6 +3,8 @@ My work progress on 100 Days Of Machine Learning Code challenge.
 
 `#100DaysOfMLCode`
 
+[ndkshr.github.io/100DaysOfMLCode](https://ndkshr.github.io/100DaysOfMLCode)
+
 ---
 
 ## Things completed so far:
